@@ -1,0 +1,17 @@
+{
+  "name": "i.c.o.-solidity-openzeppelin-truffle",
+  "version": "1.0.0",
+  "description": "I.C.O. made with Solidity with the OpenZeppelin Library and the Truffle Framework.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ignacioceaglio@protonmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0"
+  }
+}
